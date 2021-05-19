@@ -36,11 +36,11 @@ SERVER_ID = "35fcd4e8cacf45bcbc3c5c3294154028"
 SECRET_KEY_NAME = "private_20210519132955.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
+LOCAL_ADDRESS = "https://cryptic-tundra-52857.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com"
-DB_NAME = "x3mdxxxxsg5nx"
-DB_USER = "xsozxxxxvksikx"
+DB_HOST = "ec2-54-152-185-191.compute-1.amazonaws.com"
+DB_NAME = "dco1od2r952g7b"
+DB_USER = "qkmowwcdpntjlv"
 DB_PORT = "5432"
-DB_PASSWORD = "xxxxxb3ff80c85d331da880f4b3e0xxxxxxxxxxxd552d64d128317653ce0xxxx"
+DB_PASSWORD = "4177c58b9124cbb196976c412e2a8f6ce58f591d199dc2eef2f3ac6f862a9920"
